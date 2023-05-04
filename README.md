@@ -1,5 +1,6 @@
 ### Hi there 👋
-gtech_mulearn
+Introduction to GitHub
+
 
 <!--
 **Diyab2003/Diyab2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
