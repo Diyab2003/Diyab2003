@@ -1,5 +1,7 @@
 ### Hi there 👋
-Introduction to GitHub
+##### I'm Diya Benny
+#####A passionate computer science student from Kerala
+##### Ad this is my GitHub
 
 
 <!--
