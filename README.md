@@ -1,7 +1,7 @@
 ### Hi there 👋
 ##### I'm Diya Benny
-#####A passionate computer science student from Kerala
-##### Ad this is my GitHub
+##### A passionate computer science student from Kerala
+##### And this is my GitHub
 
 
 <!--
