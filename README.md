@@ -1,8 +1,6 @@
 <img title="a title" alt="Alt text" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+
 # [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+there!+👋;I'm+Diya+Benny)](https://git.io/typing-svg)
-##### I'm Diya Benny
-##### A passionate computer science student from Kerala
-##### And this is my GitHub
 
 
 <!--
