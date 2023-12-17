@@ -2,6 +2,11 @@
 
 # [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+there!+👋;I'm+Diya+Benny)](https://git.io/typing-svg)
 
+##
+</div>
+<a href="https://hits.sh/github.com/Diyab2003/"><img alt="Hits" src="https://hits.sh/github.com/Diyab2003.svg?label=Visitors&color=11c8cc&labelColor=281e1e"/></a>
+</h2>
+<h3>
 
 <!--
 **Diyab2003/Diyab2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,22 +27,6 @@ Here are some ideas to get you started:
   <img src="https://streak-stats.demolab.com?user=Diyab2003&locale=en&mode=daily&theme=midnight-purple&hide_border=true&border_radius=5&date_format=j M[ Y]&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=Diyab2003&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
 </div>
-
-
-
  <a href="https://www.buymeacoffee.com/diyabenny0b" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 </p> 
 <hr>
-###
-<br>
-<hr>
-<div align="center">
-![Views Counter](https://views-counter.vercel.app/badge?pageId=Diyab2003&leftColor=1371ec&rightColor=0ad8db&type=total&label=Visitors&style=none)>
-  <img src="https://views-counter.vercel.app/badge?pageId=Diyab2003&leftColor=1371ec&rightColor=0ad8db&type=total&label=Visitors&style=none" alt="Views Counter">> 
- [https://views-counter.vercel.app/badge?pageId=Diyab2003](https://views-counter.vercel.app/badge? 
- pageId=Diyab2003&leftColor=1371ec&rightColor=0ad8db&type=total&label=Visitors&style=none)https://views-counter.vercel.app/badge?pageId=Diyab2003&leftColor=1371ec&rightColor=0ad8db&type=total&label=Visitors&style=none >
-</div>
-[![Hits](https://hits.sh/github.com/Diyab2003.svg?label=Visitors&color=11c8cc&labelColor=281e1e)](https://hits.sh/github.com/Diyab2003/)
-<a href="https://hits.sh/github.com/Diyab2003/"><img alt="Hits" src="https://hits.sh/github.com/Diyab2003.svg?label=Visitors&color=11c8cc&labelColor=281e1e"/></a>
-https://hits.sh/github.com/Diyab2003.svg?label=Visitors&color=11c8cc&labelColor=281e1e
-###
