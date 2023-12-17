@@ -32,9 +32,9 @@ Here are some ideas to get you started:
 <br>
 <hr>
 <div align="center">
-  ![Views Counter](https://views-counter.vercel.app/badge?pageId=Diyab2003)
+  <img  ![Views Counter](https://views-counter.vercel.app/badge?pageId=Diyab2003)>
   <img src="https://views-counter.vercel.app/badge?pageId=Diyab2003" alt="Views Counter"> 
-  https://views-counter.vercel.app/badge?pageId=Diyab2003
+  <img  https://views-counter.vercel.app/badge?pageId=Diyab2003>
 </div>
 
 ###
