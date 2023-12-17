@@ -32,9 +32,12 @@ Here are some ideas to get you started:
 <br>
 <hr>
 <div align="center">
-  <img  ![Views Counter](https://views-counter.vercel.app/badge?pageId=Diyab2003)>
-  <img src="https://views-counter.vercel.app/badge?pageId=Diyab2003" alt="Views Counter"> 
-  <img  https://views-counter.vercel.app/badge?pageId=Diyab2003>
+![Views Counter](https://views-counter.vercel.app/badge?pageId=Diyab2003&leftColor=1371ec&rightColor=0ad8db&type=total&label=Visitors&style=none)>
+  <img src="https://views-counter.vercel.app/badge?pageId=Diyab2003&leftColor=1371ec&rightColor=0ad8db&type=total&label=Visitors&style=none" alt="Views Counter">> 
+ [https://views-counter.vercel.app/badge?pageId=Diyab2003](https://views-counter.vercel.app/badge? 
+ pageId=Diyab2003&leftColor=1371ec&rightColor=0ad8db&type=total&label=Visitors&style=none)https://views-counter.vercel.app/badge?pageId=Diyab2003&leftColor=1371ec&rightColor=0ad8db&type=total&label=Visitors&style=none >
 </div>
-
+[![Hits](https://hits.sh/github.com/Diyab2003.svg?label=Visitors&color=11c8cc&labelColor=281e1e)](https://hits.sh/github.com/Diyab2003/)
+<a href="https://hits.sh/github.com/Diyab2003/"><img alt="Hits" src="https://hits.sh/github.com/Diyab2003.svg?label=Visitors&color=11c8cc&labelColor=281e1e"/></a>
+https://hits.sh/github.com/Diyab2003.svg?label=Visitors&color=11c8cc&labelColor=281e1e
 ###
