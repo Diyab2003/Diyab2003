@@ -8,10 +8,6 @@
 </h2>
 <h3>
 
-# Badges
-<p align = "center">
-  <img  src = "https://www.credly.com/badges/af55f54e-7b63-43cf-8c81-3516595c91b8/public_url">
-</p> 
 
 
 <div align="left">
