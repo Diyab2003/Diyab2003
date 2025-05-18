@@ -3,6 +3,7 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+there!+👋;I'm+Diya+Benny)](https://git.io/typing-svg)
 
 ##
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 </div>
 <a href="https://hits.sh/github.com/Diyab2003/"><img alt="Hits" src="https://hits.sh/github.com/Diyab2003.svg?label=Visitors&color=11c8cc&labelColor=281e1e"/></a>
 </h2>
