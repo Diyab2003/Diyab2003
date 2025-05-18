@@ -1,7 +1,7 @@
 <img title="a title" alt="Alt text" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 # [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+there!+👋;I'm+Diya+Benny)](https://git.io/typing-svg)
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+
 ##
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 </div>
